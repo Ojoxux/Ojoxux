@@ -22,6 +22,4 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojoxux&layout=compact&theme=greywhite)](https://github.com/Ojoxux/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojoxux&show_icons=true&locale=en&layout=compact" alt="ojoxux" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&" alt="ojoxux" /></p>
