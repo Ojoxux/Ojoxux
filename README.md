@@ -4,7 +4,7 @@ Hi, I'm a student engineer. 🤝
 ## 🌱 my skills
 
 #### 💻 FrontEnd
-<img alt="my skills front" src="https://skillicons.dev/icons?theme=dark&perline=9&i=js,html,css,dart,flutter,jquery,tailwind,vite,figma" />
+<img alt="my skills front" src="https://skillicons.dev/icons?theme=dark&perline=9&i=js,html,css,dart,flutter,tailwind,vite,figma" />
 
 #### 💻 BackEnd
 <img alt="my skills front" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,php,nodejs,laravel,firebase," />
