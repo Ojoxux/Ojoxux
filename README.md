@@ -1,5 +1,5 @@
 ## 🌕 About Jou Okuyama
-Hi, I'm a student engineer. 🤝
+Hi, I'm a student engineer. I live in Niigata 🤝
 
 ## 🌱 my skills
 
