@@ -1,6 +1,6 @@
 ## 🌕 Hi there, I'm Jou Okuyama.
 
-## 🌱 my skills
+### 🌱 my skills
 
 #### 💻 FrontEnd
 <img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=9&i=js,html,css,dart,flutter,tailwind,vite,figma" />
