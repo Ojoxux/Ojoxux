@@ -15,9 +15,9 @@
 <img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,react,rails,laravel,ruby,rust" />
 
 ## 📈 Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
+<p align="center"><img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
