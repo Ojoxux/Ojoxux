@@ -20,6 +20,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ojoxux&margin-w=5&rank=-?)](https://github.com/ojoxux/)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
