@@ -16,8 +16,8 @@
 
 ## 📈 Status
 <p align="center"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 
-<p align="center"><img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
+<p align="center"><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
