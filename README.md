@@ -3,16 +3,16 @@
 ### 🌱 my skills
 
 #### 💻 FrontEnd
-<img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=9&i=js,html,css,dart,flutter,tailwind,vite,figma" />
+<img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=9&i=html,css,js,ts,react,tailwind,vite" />
 
 #### 💻 BackEnd
 <img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,nodejs,laravel,firebase," />
 
 #### 💻 Other, Tools
-<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,java,py,unity,swift,opencv,tensorflow,figma,git,github" />
+<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,java,py,dart,flutter,unity,swift,opencv,tensorflow,figma,git,github" />
 
 #### ✏️ Studying
-<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,react,rails,laravel,ruby,rust" />
+<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=rails,laravel,ruby,rust" />
 
 ## 📈 Status
 <p align="center"> 
