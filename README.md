@@ -6,7 +6,7 @@
 <img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=9&i=html,css,js,ts,react,tailwind,vite" />
 
 #### 💻 BackEnd
-<img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,nodejs,laravel,firebase,heroku" />
+<img alt="my skills front" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,php,nodejs,laravel,firebase,heroku,flask" />
 
 #### 💻 Other, Tools
 <img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,java,py,dart,flutter,unity,swift,opencv,tensorflow,figma,git,github" />
