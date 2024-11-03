@@ -12,7 +12,7 @@
 <img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,java,py,dart,flutter,unity,swift,opencv,tensorflow,figma,git,github" />
 
 #### ✏️ Studying
-<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=rails,ruby,rust" />
+<img alt="my skills other" src="https://skillicons.dev/icons?theme=light&perline=8&i=rails,ruby,rust,tauri" />
 
 ## 📈 Status
 <p align="center"> 
