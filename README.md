@@ -46,4 +46,7 @@ No activity tracked
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 -->
-<p align="center"><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
+<p align="left"><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
+<div align="right">
+  <img src="https://c.tenor.com/TuuJ1wa0gX0AAAAC/reo-mikage.gif" width="200" />
+</div>
