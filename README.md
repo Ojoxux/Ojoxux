@@ -10,13 +10,13 @@
 
 <!--START_SECTION:waka-->
 
-    🏆  Last 7 days: 0 hrs 0 mins
-    🟪  Programming :
-    JavaScript       0 hrs 0 mins
-    HTML             0 hr 0 mins
-    CSS              0 hr 0 mins
-    React            0 hr 0 mins
-    TypeScript       0 hr 0 mins
+```txt
+From: 12 November 2024 - To: 19 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 <!--
