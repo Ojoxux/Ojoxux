@@ -1,12 +1,12 @@
-## Hi there, I'm Ojoxux. 😈
+## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙊𝙟𝙤𝙭𝙪𝙭. 😈
 
-## What I Love 💜
+## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
 
 - FrontEnd Dev
 - Music (US HipHop)
 - FPS Games
 
-## Status
+## 𝙎𝙩𝙖𝙩𝙪𝙨
 
 <!--START_SECTION:waka-->
 
