@@ -1,4 +1,4 @@
-## Hi there, I'm Jou Okuyama. 😈
+## Hi there, I'm Ojoxux. 😈
 
 ## What I Love 💜
 
