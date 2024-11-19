@@ -1,4 +1,9 @@
-## 🦢 Hi there, I'm Jou Okuyama. ✨
+## Hi there, I'm Jou Okuyama. 😈
+
+## What I Love 💜
+- FrontEnd
+- Music (US HipHop)
+- FPS Games
 
 ### 🌱 my skills
 
