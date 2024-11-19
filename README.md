@@ -2,7 +2,7 @@
 
 ## What I Love 💜
 
-- FrontEnd
+- FrontEnd Dev
 - Music (US HipHop)
 - FPS Games
 
