@@ -1,5 +1,9 @@
 ## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙤𝙪 𝙊𝙠𝙪𝙮𝙖𝙢𝙖. 😈
 
+<div align="left">
+  <img src="assets/img/Reo-Mikage.gif" width="350" />
+</div>
+
 ## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
 
 - FrontEnd Dev
@@ -19,6 +23,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
 <!--
 
 ### 🌱 my skills
@@ -47,6 +52,3 @@ No activity tracked
 </p>
 -->
 <p align="left"><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
-<div align="right">
-  <img src="https://c.tenor.com/TuuJ1wa0gX0AAAAC/reo-mikage.gif" width="200" />
-</div>
