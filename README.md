@@ -51,4 +51,7 @@ No activity tracked
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 -->
-<p align="left"><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" /></p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" alt="Top Langs" />
+</div>
