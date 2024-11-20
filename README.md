@@ -15,11 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 19 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Total Time: 0 secs
+Total Time: 4 hrs 56 mins
 
-No activity tracked
+JavaScript   2 hrs 23 mins   >>>>>>>>>>>>-------------   48.29 %
+YAML         57 mins         >>>>>--------------------   19.32 %
+HTML         51 mins         >>>>---------------------   17.43 %
+Markdown     35 mins         >>>----------------------   12.13 %
+Bash         0 secs          -------------------------   00.30 %
+Git Config   0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
