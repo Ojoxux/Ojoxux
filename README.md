@@ -1,14 +1,17 @@
 ## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙤𝙪 𝙊𝙠𝙪𝙮𝙖𝙢𝙖. 😈
 
-<div align="left">
-  <img src="assets/img/Reo-Mikage.gif" width="350" />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <img src="assets/img/Reo-Mikage.gif" width="350" />
+  </div>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
 
