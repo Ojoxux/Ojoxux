@@ -65,7 +65,7 @@ Git Config    0 secs          -------------------------   00.04 %
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Ojoxux}/{Ojoxux}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Ojoxux}/{Ojoxux}/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{ojoxux}/{ojoxux}/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{ojoxux}/{ojoxux}/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s{ojoxux}/{ojoxux}/output/github-contribution-grid-snake.svg">
 </picture>
