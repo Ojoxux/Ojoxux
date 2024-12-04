@@ -32,6 +32,12 @@ Git Config    0 secs          -------------------------   00.04 %
 
 <!--END_SECTION:waka-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 
 ### 🌱 my skills
@@ -59,13 +65,8 @@ Git Config    0 secs          -------------------------   00.04 %
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ojoxux" />
 </p>
 -->
+
 <div style="display: flex; align-items: center; gap: 20px;">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" alt="Top Langs" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-</picture>
