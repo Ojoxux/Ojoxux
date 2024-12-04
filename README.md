@@ -4,6 +4,12 @@
   <img src="assets/img/Reo-Mikage.gif" width="350" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
 
 - FrontEnd Dev
@@ -31,12 +37,6 @@ Git Config    0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ojoxux/ojoxux/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--
 
