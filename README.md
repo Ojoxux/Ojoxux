@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    <img src="assets/img/Reo-Mikage.gif" width="350" />
+    <img src="assets/img/Reo-Mikage.gif" width="350" style="box-shadow: 0 0 20px #bf91f3;" />
   </div>
 </div>
 
@@ -63,6 +63,6 @@ TSConfig     1 min           -------------------------   00.15 %
 -->
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&hide_border=true&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3" alt="ojoxux" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Top Langs" />
+  <img height="150px" style="box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&border=bf91f3" alt="ojoxux" />
+  <img height="150px" style="box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3" alt="Top Langs" />
 </div>
