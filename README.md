@@ -63,6 +63,6 @@ TSConfig     1 min           -------------------------   00.15 %
 -->
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux" alt="ojoxux" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true" alt="Top Langs" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&hide_border=true&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3" alt="ojoxux" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Top Langs" />
 </div>
