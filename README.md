@@ -8,9 +8,9 @@
 
 ## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
 
-- FrontEnd Dev
-- Music (US HipHop)
-- FPS Games
+- 💻 FrontEnd Dev
+- 🎵 Music (US HipHop)
+- 👾 FPS Games
 
 ## 𝙎𝙩𝙖𝙩𝙪𝙨 🟣
 
