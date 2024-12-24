@@ -62,8 +62,14 @@ Bash          2 mins          -------------------------   00.21 %
 </p>
 -->
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%; margin: 0 auto;">
-  <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&border=bf91f3" alt="ojoxux" />
-  <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3" alt="Top Langs" />
-  <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-stats-clone-cs68.vercel.app/api?username=ojoxux&count_private=true&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3&icon_color=bf91f3" alt="Jou's GitHub stats" />
+<div style="columns: 3 300px; column-gap: 20px; width: 100%; margin: 0 auto;">
+  <div style="break-inside: avoid; margin-bottom: 20px;">
+    <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&border=bf91f3" alt="ojoxux" />
+  </div>
+  <div style="break-inside: avoid; margin-bottom: 20px;">
+    <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3" alt="Top Langs" />
+  </div>
+  <div style="break-inside: avoid; margin-bottom: 20px;">
+    <img height="150px" style="width: 100%; object-fit: cover; box-shadow: 0 0 20px #bf91f3;" src="https://github-readme-stats-clone-cs68.vercel.app/api?username=ojoxux&count_private=true&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3&icon_color=bf91f3" alt="Jou's GitHub stats" />
+  </div>
 </div>
