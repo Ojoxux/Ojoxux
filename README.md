@@ -1,9 +1,8 @@
 ## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙤𝙪 𝙊𝙠𝙪𝙮𝙖𝙢𝙖. 😈
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    <img src="assets/img/Reo-Mikage.gif" width="350" style="box-shadow: 0 0 20px #bf91f3;" />
-  </div>
+  <img src="assets/img/Reo-Mikage.gif" width="350" style="box-shadow: 0 0 20px #bf91f3;" />
+  <img src="assets/img/Reo-Mikage-2.gif" width="350" style="box-shadow: 0 0 20px #bf91f3;" />
 </div>
 
 ## 𝙒𝙝𝙖𝙩 𝙄 𝙇𝙤𝙫𝙚 💜
