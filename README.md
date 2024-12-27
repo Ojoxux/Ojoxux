@@ -11,7 +11,7 @@
 - 🎵 Music (US HipHop)
 - 👾 FPS Games
 
-## 𝙎𝙩𝙖𝙩 𝙪𝙨 🟣
+## 𝙎𝙩𝙖𝙩𝙪𝙨 🟣
 
 <!--START_SECTION:waka-->
 
