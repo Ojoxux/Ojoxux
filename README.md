@@ -13,16 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Total Time: 12 hrs 14 mins
+Total Time: 14 hrs 46 mins
 
-TypeScript   10 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>----   83.30 %
-Python       43 mins         >------------------------   05.92 %
-JavaScript   35 mins         >------------------------   04.78 %
-CSS          20 mins         >------------------------   02.73 %
-JSON         10 mins         -------------------------   01.44 %
-TSConfig     7 mins          -------------------------   00.96 %
+TypeScript   12 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>-----   81.95 %
+Python       1 hr 34 mins    >>>----------------------   10.64 %
+CSS          20 mins         >------------------------   02.26 %
+HTML         14 mins         -------------------------   01.64 %
+JSON         10 mins         -------------------------   01.19 %
+TSConfig     7 mins          -------------------------   00.80 %
+JavaScript   6 mins          -------------------------   00.68 %
+Docker       0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
