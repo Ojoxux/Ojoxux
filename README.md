@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Total Time: 24 hrs 56 mins
+Total Time: 23 hrs 20 mins
 
-TypeScript    22 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.52 %
-JavaScript    35 mins         >------------------------   02.37 %
-Markdown      26 mins         -------------------------   01.76 %
-CSS           15 mins         -------------------------   01.06 %
-Bash          14 mins         -------------------------   01.00 %
-Image (svg)   14 mins         -------------------------   00.96 %
-Git Config    4 mins          -------------------------   00.30 %
-JSON          3 mins          -------------------------   00.23 %
+TypeScript    20 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.84 %
+JavaScript    33 mins         >------------------------   02.41 %
+Markdown      27 mins         -------------------------   01.97 %
+CSS           15 mins         -------------------------   01.13 %
+Bash          14 mins         -------------------------   01.07 %
+Image (svg)   14 mins         -------------------------   01.03 %
+Git Config    4 mins          -------------------------   00.32 %
+JSON          3 mins          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
