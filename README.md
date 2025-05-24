@@ -13,18 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-Total Time: 14 hrs 14 mins
+Total Time: 15 hrs 15 mins
 
-TypeScript       7 hrs 24 mins   >>>>>>>>>>>>>------------   51.97 %
-Dart             2 hrs 54 mins   >>>>>--------------------   20.47 %
-JSON             1 hr 39 mins    >>>----------------------   11.62 %
-YAML             58 mins         >>-----------------------   06.80 %
-Markdown         38 mins         >------------------------   04.49 %
-Git Config       10 mins         -------------------------   01.22 %
-CocoaPods        8 mins          -------------------------   00.98 %
-GitIgnore file   0 secs          -------------------------   00.11 %
+TypeScript       6 hrs 34 mins   >>>>>>>>>>>--------------   43.09 %
+Dart             2 hrs 54 mins   >>>>>--------------------   19.11 %
+Markdown         1 hr 41 mins    >>>----------------------   11.14 %
+JSON             1 hr 41 mins    >>>----------------------   11.13 %
+YAML             58 mins         >>-----------------------   06.35 %
+Git Config       24 mins         >------------------------   02.71 %
+CocoaPods        8 mins          -------------------------   00.91 %
+GitIgnore file   0 secs          -------------------------   00.10 %
 CSS              0 secs          -------------------------   00.01 %
 ```
 
