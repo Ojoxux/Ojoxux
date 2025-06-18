@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 11 hrs 50 mins
+Total Time: 15 hrs 11 mins
 
-TypeScript   9 hrs 4 mins    >>>>>>>>>>>>>>>>>>>------   76.60 %
-YAML         1 hr 7 mins     >>-----------------------   09.49 %
-Markdown     43 mins         >>-----------------------   06.17 %
-JSON         29 mins         >------------------------   04.15 %
-Git Config   25 mins         >------------------------   03.54 %
+TypeScript   11 hrs 44 mins  >>>>>>>>>>>>>>>>>>>------   77.28 %
+YAML         1 hr 34 mins    >>>----------------------   10.39 %
+Markdown     55 mins         >>-----------------------   06.14 %
+JSON         26 mins         >------------------------   02.89 %
+Git Config   25 mins         >------------------------   02.76 %
 Perl         0 secs          -------------------------   00.01 %
 JavaScript   0 secs          -------------------------   00.00 %
 ```
