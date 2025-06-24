@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
-Total Time: 19 hrs 57 mins
+Total Time: 22 hrs 43 mins
 
-TypeScript   11 hrs 9 mins   >>>>>>>>>>>>>>-----------   55.89 %
-Dart         3 hrs 37 mins   >>>>>--------------------   18.16 %
-Markdown     2 hrs 50 mins   >>>>---------------------   14.21 %
-YAML         1 hr 14 mins    >>-----------------------   06.21 %
-JSON         38 mins         >------------------------   03.22 %
-Git Config   4 mins          -------------------------   00.34 %
-TSConfig     2 mins          -------------------------   00.24 %
-SQL          1 min           -------------------------   00.14 %
-JavaScript   0 secs          -------------------------   00.00 %
+TypeScript   14 hrs 11 mins  >>>>>>>>>>>>>>>>---------   62.42 %
+Dart         3 hrs 37 mins   >>>>---------------------   15.94 %
+Markdown     3 hrs 2 mins    >>>----------------------   13.42 %
+JSON         41 mins         >------------------------   03.04 %
+YAML         36 mins         >------------------------   02.68 %
+Git Config   4 mins          -------------------------   00.30 %
+TSConfig     2 mins          -------------------------   00.21 %
+JavaScript   1 min           -------------------------   00.13 %
+SQL          1 min           -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
