@@ -13,11 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 11 mins
+Total Time: 4 hrs 23 mins
 
-Markdown   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.64 %
+TypeScript   3 hrs 44 mins   >>>>>>>>>>>>>>>>>>>>>----   85.38 %
+Markdown     17 mins         >>-----------------------   06.52 %
+YAML         15 mins         >------------------------   05.92 %
+JSON         5 mins          >------------------------   02.03 %
+Git Config   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
