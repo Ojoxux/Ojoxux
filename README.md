@@ -13,17 +13,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Total Time: 11 hrs 58 mins
+Total Time: 15 hrs 27 mins
 
-TypeScript   9 hrs 16 mins   >>>>>>>>>>>>>>>>>>>------   77.45 %
-Markdown     1 hr 25 mins    >>>----------------------   11.86 %
-JSON         24 mins         >------------------------   03.39 %
-SQL          19 mins         >------------------------   02.69 %
-JavaScript   14 mins         >------------------------   02.03 %
-TSConfig     10 mins         -------------------------   01.41 %
-Git Config   8 mins          -------------------------   01.16 %
+TypeScript   12 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>-----   80.14 %
+Markdown     1 hr 35 mins    >>>----------------------   10.31 %
+SQL          31 mins         >------------------------   03.35 %
+JSON         24 mins         >------------------------   02.62 %
+JavaScript   14 mins         -------------------------   01.57 %
+TSConfig     10 mins         -------------------------   01.09 %
+Git Config   8 mins          -------------------------   00.90 %
 Bash         0 secs          -------------------------   00.01 %
 ```
 
