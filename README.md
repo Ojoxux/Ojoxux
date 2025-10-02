@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-Total Time: 26 hrs 3 mins
+Total Time: 26 hrs 24 mins
 
-TypeScript   11 hrs 53 mins  >>>>>>>>>>>--------------   45.64 %
-Markdown     3 hrs 34 mins   >>>----------------------   13.71 %
-YAML         3 hrs 10 mins   >>>----------------------   12.16 %
-Docker       1 hr 46 mins    >>-----------------------   06.82 %
-Go           1 hr 10 mins    >------------------------   04.53 %
-SQL          1 hr 9 mins     >------------------------   04.44 %
-JSON         1 hr 3 mins     >------------------------   04.06 %
-Python       44 mins         >------------------------   02.87 %
-Git Config   32 mins         >------------------------   02.05 %
-Bash         28 mins         -------------------------   01.85 %
+TypeScript   11 hrs 49 mins  >>>>>>>>>>>--------------   44.80 %
+Markdown     3 hrs 34 mins   >>>----------------------   13.54 %
+YAML         3 hrs 10 mins   >>>----------------------   12.00 %
+Docker       2 hrs 7 mins    >>-----------------------   08.07 %
+Go           1 hr 11 mins    >------------------------   04.49 %
+SQL          1 hr 9 mins     >------------------------   04.38 %
+JSON         1 hr 6 mins     >------------------------   04.17 %
+Python       44 mins         >------------------------   02.83 %
+Git Config   32 mins         >------------------------   02.02 %
+Bash         28 mins         -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
