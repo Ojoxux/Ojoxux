@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
 Total Time: 22 hrs 9 mins
 
-Markdown          8 hrs 45 mins   >>>>>>>>>>---------------   39.55 %
+Markdown          8 hrs 55 mins   >>>>>>>>>>---------------   40.31 %
 Perl              4 hrs 14 mins   >>>>>--------------------   19.13 %
-TypeScript        3 hrs 50 mins   >>>>---------------------   17.35 %
+TypeScript        3 hrs 38 mins   >>>>---------------------   16.42 %
 MDX               2 hrs 16 mins   >>>----------------------   10.30 %
 Text Template     43 mins         >------------------------   03.31 %
-JSON              38 mins         >------------------------   02.91 %
-YAML              30 mins         >------------------------   02.31 %
-HTML              9 mins          -------------------------   00.75 %
-TOML              9 mins          -------------------------   00.71 %
+JSON              32 mins         >------------------------   02.47 %
+Scala             20 mins         -------------------------   01.58 %
+YAML              20 mins         -------------------------   01.55 %
+Git Config        11 mins         -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
