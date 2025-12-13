@@ -13,20 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 17 hrs 3 mins
+Total Time: 16 hrs 35 mins
 
-TypeScript   7 hrs 55 mins   >>>>>>>>>>>>-------------   46.46 %
-Perl         2 hrs 52 mins   >>>>---------------------   16.82 %
-Markdown     2 hrs 17 mins   >>>----------------------   13.40 %
-JSON         44 mins         >------------------------   04.39 %
-HTML         40 mins         >------------------------   03.94 %
-YAML         40 mins         >------------------------   03.92 %
-Git Config   28 mins         >------------------------   02.80 %
-SQL          24 mins         >------------------------   02.38 %
-Python       17 mins         -------------------------   01.69 %
-JavaScript   11 mins         -------------------------   01.09 %
+TypeScript   7 hrs 55 mins   >>>>>>>>>>>>-------------   47.78 %
+Markdown     2 hrs 51 mins   >>>>---------------------   17.25 %
+YAML         2 hrs 5 mins    >>>----------------------   12.57 %
+JSON         45 mins         >------------------------   04.58 %
+JavaScript   40 mins         >------------------------   04.06 %
+Git Config   27 mins         >------------------------   02.80 %
+Perl         25 mins         >------------------------   02.56 %
+SQL          20 mins         >------------------------   02.06 %
+Python       17 mins         -------------------------   01.74 %
 ```
 
 <!--END_SECTION:waka-->
