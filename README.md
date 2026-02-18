@@ -13,17 +13,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Total Time: 5 hrs 56 mins
+Total Time: 8 hrs 51 mins
 
-Perl            3 hrs 7 mins    >>>>>>>>>>>>>------------   52.56 %
-TypeScript      1 hr 46 mins    >>>>>>>------------------   29.74 %
-Markdown        31 mins         >>-----------------------   08.73 %
-Text Template   13 mins         >------------------------   03.84 %
-Less            13 mins         >------------------------   03.82 %
-JavaScript      3 mins          -------------------------   00.98 %
-YAML            1 min           -------------------------   00.33 %
+Perl            5 hrs 9 mins          >>>>>>>>>>>>>>>----------   58.31 %
+TypeScript      2 hrs 45 mins         >>>>>>>>-----------------   31.12 %
+Markdown        24 mins               >------------------------   04.55 %
+Text Template   13 mins               >------------------------   02.58 %
+Less            13 mins               >------------------------   02.56 %
+JavaScript      3 mins                -------------------------   00.66 %
+YAML            1 min                 -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
