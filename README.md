@@ -58,11 +58,13 @@ HTML         0 secs                -------------------------   00.01 %
 </p>
 -->
 
+<!--
 <div align="left">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ojoxux&theme=midnight-purple&background=000000&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&border=bf91f3" alt="ojoxux" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojoxux&layout=compact&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3" alt="Top Langs" />
   <img height="150px" src="https://github-readme-stats-clone-cs68.vercel.app/api?username=ojoxux&count_private=true&show_icons=true&title_color=9745f5&text_color=FFFFFF&bg_color=000000&border_color=bf91f3&icon_color=bf91f3" alt="Jou's GitHub stats" />
 </div>
+-->
 
 ## 𝙈𝙮 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚 😈
 
