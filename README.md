@@ -13,13 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2026 - To: 06 April 2026
+From: 31 March 2026 - To: 07 April 2026
 
-Total Time: 5 hrs 27 mins
+Total Time: 4 hrs 52 mins
 
-Perl       3 hrs 36 mins         >>>>>>>>>>>>>>>>---------   65.92 %
-Markdown   1 hr 47 mins          >>>>>>>>-----------------   32.85 %
-Java       2 mins                -------------------------   00.67 %
+Perl         3 hrs 50 mins         >>>>>>>>>>>>>>>>>>>>-----   78.95 %
+Markdown     27 mins               >>-----------------------   09.51 %
+Java         25 mins               >>-----------------------   08.76 %
+Docker       3 mins                -------------------------   01.04 %
+JavaScript   2 mins                -------------------------   01.00 %
+JSON         2 mins                -------------------------   00.73 %
+YAML         0 secs                -------------------------   00.01 %
+HTML         0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
