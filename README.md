@@ -13,19 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 11 hrs 53 mins
+Total Time: 8 hrs 58 mins
 
-Perl                       6 hrs 24 mins         >>>>>>>>>>>>>------------   53.80 %
-Markdown                   1 hr 24 mins          >>>----------------------   11.82 %
-HTML                       59 mins               >>-----------------------   08.32 %
-YAML                       54 mins               >>-----------------------   07.69 %
-CSS                        15 mins               >------------------------   02.18 %
-Makefile                   14 mins               -------------------------   01.97 %
-Nginx configuration file   13 mins               -------------------------   01.87 %
-Java                       9 mins                -------------------------   01.28 %
-Nix                        4 mins                -------------------------   00.70 %
+Perl                       3 hrs 9 mins          >>>>>>>>>----------------   35.28 %
+Markdown                   1 hr 24 mins          >>>>---------------------   15.67 %
+HTML                       59 mins               >>>----------------------   11.03 %
+YAML                       54 mins               >>>----------------------   10.20 %
+TypeScript                 33 mins               >>-----------------------   06.14 %
+CSS                        15 mins               >------------------------   02.90 %
+Makefile                   14 mins               >------------------------   02.62 %
+Nginx configuration file   13 mins               >------------------------   02.48 %
+Java                       9 mins                -------------------------   01.70 %
 ```
 
 <!--END_SECTION:waka-->
