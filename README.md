@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
-Total Time: 26 hrs 37 mins
+Total Time: 21 hrs 38 mins
 
-Markdown       6 hrs 56 mins         >>>>>>>------------------   26.07 %
-TypeScript     5 hrs 51 mins         >>>>>--------------------   21.98 %
-Perl           5 hrs 2 mins          >>>>>--------------------   18.91 %
-Docker         2 hrs 13 mins         >>-----------------------   08.37 %
-JSON           2 hrs 8 mins          >>-----------------------   08.03 %
-PHP            1 hr 23 mins          >------------------------   05.20 %
-Python         1 hr 17 mins          >------------------------   04.83 %
-JavaScript     56 mins               >------------------------   03.57 %
-YAML           17 mins               -------------------------   01.08 %
-git ignore     6 mins                -------------------------   00.40 %
+Markdown       6 hrs 32 mins         >>>>>>>>-----------------   30.21 %
+TypeScript     4 hrs 58 mins         >>>>>>-------------------   23.00 %
+Docker         2 hrs 13 mins         >>>----------------------   10.30 %
+JSON           2 hrs 12 mins         >>>----------------------   10.17 %
+Perl           1 hr 36 mins          >>-----------------------   07.43 %
+PHP            1 hr 23 mins          >>-----------------------   06.39 %
+Python         1 hr 17 mins          >------------------------   05.94 %
+JavaScript     40 mins               >------------------------   03.11 %
+YAML           16 mins               -------------------------   01.29 %
+git ignore     6 mins                -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
