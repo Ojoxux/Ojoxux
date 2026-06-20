@@ -15,19 +15,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 18 June 2026
+From: 12 June 2026 - To: 19 June 2026
 
-Total Time: 17 hrs 48 mins
+Total Time: 17 hrs 11 mins
 
-TypeScript      7 hrs 1 min           >>>>>>>>>>---------------   39.43 %
-Markdown        4 hrs 19 mins         >>>>>>-------------------   24.24 %
-CSS             1 hr 11 mins          >>-----------------------   06.70 %
-JSON            1 hr 4 mins           >>-----------------------   06.05 %
-JavaScript      1 hr 3 mins           >------------------------   05.93 %
-Perl            40 mins               >------------------------   03.77 %
-Bash            34 mins               >------------------------   03.19 %
-Vim Script      22 mins               >------------------------   02.06 %
-Text Template   21 mins               -------------------------   01.98 %
+TypeScript      6 hrs 19 mins         >>>>>>>>>----------------   36.81 %
+Markdown        4 hrs 15 mins         >>>>>>-------------------   24.72 %
+CSS             1 hr 11 mins          >>-----------------------   06.94 %
+JavaScript      1 hr 3 mins           >>-----------------------   06.14 %
+JSON            1 hr 3 mins           >>-----------------------   06.12 %
+Perl            40 mins               >------------------------   03.91 %
+Bash            33 mins               >------------------------   03.25 %
+Vim Script      22 mins               >------------------------   02.13 %
+Text Template   21 mins               >------------------------   02.05 %
 ```
 
 <!--END_SECTION:waka-->
