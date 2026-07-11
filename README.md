@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 09 July 2026
+From: 03 July 2026 - To: 10 July 2026
 
-Total Time: 24 hrs 24 mins
+Total Time: 24 hrs 56 mins
 
-TypeScript     11 hrs 53 mins        >>>>>>>>>>>>-------------   48.75 %
-JSON           2 hrs 33 mins         >>>----------------------   10.50 %
-Nix            1 hr 47 mins          >>-----------------------   07.33 %
-Haskell        1 hr 39 mins          >>-----------------------   06.77 %
-Bash           1 hr 17 mins          >------------------------   05.29 %
-Markdown       1 hr 9 mins           >------------------------   04.76 %
-JavaScript     25 mins               -------------------------   01.74 %
-XML            19 mins               -------------------------   01.35 %
-Cabal Config   16 mins               -------------------------   01.12 %
+TypeScript     10 hrs 59 mins        >>>>>>>>>>>--------------   44.07 %
+JSON           2 hrs 33 mins         >>>----------------------   10.27 %
+Nix            1 hr 47 mins          >>-----------------------   07.22 %
+Haskell        1 hr 39 mins          >>-----------------------   06.63 %
+Bash           1 hr 18 mins          >------------------------   05.26 %
+Markdown       1 hr 9 mins           >------------------------   04.66 %
+shell script   41 mins               >------------------------   02.77 %
+JavaScript     25 mins               -------------------------   01.70 %
+XML            19 mins               -------------------------   01.32 %
 ```
 
 <!--END_SECTION:waka-->
