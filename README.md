@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 19 hrs 22 mins
+Total Time: 20 hrs 5 mins
 
-Haskell         6 hrs 36 mins         >>>>>>>>>----------------   34.15 %
-Markdown        3 hrs 49 mins         >>>>>--------------------   19.72 %
-TypeScript      2 hrs 41 mins         >>>----------------------   13.90 %
-Nix             1 hr 20 mins          >>-----------------------   06.93 %
-Cabal Config    39 mins               >------------------------   03.39 %
-Docker          37 mins               >------------------------   03.25 %
-JSON            36 mins               >------------------------   03.10 %
-YAML            27 mins               >------------------------   02.38 %
-ActionScript    23 mins               >------------------------   02.04 %
-Python          23 mins               -------------------------   01.99 %
+Haskell         6 hrs 38 mins         >>>>>>>>-----------------   33.11 %
+Markdown        3 hrs 51 mins         >>>>>--------------------   19.20 %
+TypeScript      2 hrs 41 mins         >>>----------------------   13.41 %
+Nix             1 hr 20 mins          >>-----------------------   06.69 %
+JSON            1 hr 10 mins          >------------------------   05.86 %
+Cabal Config    39 mins               >------------------------   03.27 %
+Docker          37 mins               >------------------------   03.13 %
+YAML            27 mins               >------------------------   02.30 %
+ActionScript    23 mins               -------------------------   01.96 %
+Python          23 mins               -------------------------   01.92 %
 ```
 
 <!--END_SECTION:waka-->
