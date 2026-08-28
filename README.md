@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2026 - To: 26 August 2026
+From: 20 August 2026 - To: 27 August 2026
 
-Total Time: 37 hrs 28 mins
+Total Time: 44 hrs 13 mins
 
-Markdown        10 hrs 55 mins        >>>>>>>------------------   29.15 %
-Perl            4 hrs 50 mins         >>>----------------------   12.90 %
-Nix             4 hrs 46 mins         >>>----------------------   12.75 %
-Haskell         3 hrs 25 mins         >>-----------------------   09.13 %
-TypeScript      2 hrs 22 mins         >>-----------------------   06.32 %
-YAML            1 hr 15 mins          >------------------------   03.35 %
-JavaScript      1 hr 12 mins          >------------------------   03.22 %
-C++             1 hr 5 mins           >------------------------   02.93 %
-Prolog          51 mins               >------------------------   02.29 %
+Markdown        13 hrs 7 mins         >>>>>>>------------------   29.69 %
+Nix             4 hrs 50 mins         >>>----------------------   10.95 %
+Perl            4 hrs 38 mins         >>>----------------------   10.51 %
+Haskell         3 hrs 39 mins         >>-----------------------   08.27 %
+YAML            3 hrs 33 mins         >>-----------------------   08.04 %
+TypeScript      3 hrs 27 mins         >>-----------------------   07.81 %
+C++             1 hr 57 mins          >------------------------   04.44 %
+JavaScript      1 hr 26 mins          >------------------------   03.28 %
+Prolog          51 mins               -------------------------   01.94 %
 ```
 
 <!--END_SECTION:waka-->
