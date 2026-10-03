@@ -7,7 +7,6 @@ From: 25 September 2026 - To: 02 October 2026
 
 Total Time: 26 hrs 23 mins
 
-Markdown        10 hrs 36 mins        >>>>>>>>>>---------------   40.17 %
 Haskell         3 hrs 50 mins         >>>>---------------------   14.58 %
 Perl            2 hrs 53 mins         >>>----------------------   10.96 %
 JavaScript      1 hr 26 mins          >------------------------   05.49 %
